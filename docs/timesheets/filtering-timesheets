@@ -1,0 +1,33 @@
+# Filtering Time Sheets
+Filtering time sheet data helps you quickly find the information you need.  Whether you're reviewing hours, checking approvals, or analyzing project activity.
+## How to Apply Filters
+You can filter data using several dropdown menus at the top of the page:
+
+- User, select one or more.
+- Groups, select one. (Note: your organization may use custom labels for this field)
+- Projects, select one or more. (Custom labels may apply)
+- Tasks, select one or more. (Custom labels may apply)
+
+Additionally, you can filter by date ranges:
+This / Next Week
+This / Next Pay Period
+This / Next Month
+This / Next Year
+
+
+Tag based filters
+
+
+Below the dropdowns, you'll find tag filters for specific time categories:
+Approved
+Breaks
+Standard
+Overtime
+Doubletime
+PTO
+A filter is active when a checkmark appears next to its name.
+Show or Hide Filters
+To declutter your view:
+Select Hide Filters to collapse the filter section.
+Select Show Filters to bring it back.
+Note: Hiding filters does not turn them off—they remain active until manually deselected.
